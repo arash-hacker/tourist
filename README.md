@@ -1,4 +1,4 @@
-id | repo | url
+id | url | repo
 --- | --- | ---
 1 | [projecteuler](https://projecteuler.net/archives) | [projecteuler](https://github.com/arshiamidos/projecteuler)
 2 | [topcoder](https://www.topcoder.com/tc?module=MatchList&sc=&sd=&nr=50&sr=151) | [topcoder](https://github.com/arshiamidos/topcoder)
@@ -8,7 +8,7 @@ id | repo | url
 6 | [atcoder](https://atcoder.jp/users/tourist/history) | [atcoder](https://github.com/arshiamidos/atcoder)
 
 # Advent of Code
-id | repo | url
+id | url | repo
 --- | --- | ---
 7 |  [aoc2015](https://adventofcode.com/2015/) | [aoc2015](https://github.com/arshiamidos/aoc2015)
 8 |  [aoc2016](https://adventofcode.com/2016/) | [aoc2016](https://github.com/arshiamidos/aoc2016)
