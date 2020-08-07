@@ -6,7 +6,7 @@ id | url | repo
 4 | [hackerrank](https://www.hackerrank.com/dashboard) | [hackerrank](https://github.com/arshiamidos/hackerrank)
 5 | [codechef](https://www.codechef.com/contests) | [codechef](https://github.com/arshiamidos/codechef)
 6 | [atcoder](https://atcoder.jp/users/tourist/history) | [atcoder](https://github.com/arshiamidos/atcoder)
-7 | [codeforces](https://codeforces.com/problemset?order=BY_RATING_DESC) | [codeforces](https://codeforces.com/problemset?order=BY_RATING_DESC)
+7 | [codeforces](https://codeforces.com/problemset?order=BY_RATING_DESC) | [codeforces](https://github.com/arshiamidos/codeforces)
 
 # Advent of Code
 id | url | repo
