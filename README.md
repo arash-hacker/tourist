@@ -7,6 +7,7 @@ id | url | repo
 5 | [codechef](https://www.codechef.com/contests) | [codechef](https://github.com/arshiamidos/codechef)
 6 | [atcoder](https://atcoder.jp/users/tourist/history) | [atcoder](https://github.com/arshiamidos/atcoder)
 7 | [codeforces](https://codeforces.com/problemset?order=BY_RATING_DESC) | [codeforces](https://github.com/arshiamidos/codeforces)
+8 | [leetcode](https://leetcode.com/problemset/all/) | [leetcode](https://github.com/arshiamidos/leetcode)
 
 # Advent of Code
 id | url | repo
