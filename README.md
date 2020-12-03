@@ -8,6 +8,7 @@ id | url | repo
 6 | [atcoder](https://atcoder.jp/users/tourist/history) | [atcoder](https://github.com/arshiamidos/atcoder)
 7 | [codeforces](https://codeforces.com/problemset?order=BY_RATING_DESC) | [codeforces](https://github.com/arshiamidos/codeforces)
 8 | [leetcode](https://leetcode.com/problemset/all/) | [leetcode](https://github.com/arshiamidos/leetcode)
+9 | [codingame](https://www.codingame.com/training/expert) | [codingame](https://github.com/arshiamidos/codingame)
 
 # Advent of Code
 id | url | repo
@@ -17,6 +18,7 @@ id | url | repo
 9 |  [aoc2017](https://adventofcode.com/2017/) | [aoc2017](https://github.com/arshiamidos/aoc2017)
 10 | [aoc2018](https://adventofcode.com/2018/) | [aoc2018](https://github.com/arshiamidos/aoc2018)
 11 | [aoc2019](https://adventofcode.com/2019/) | [aoc2019](https://github.com/arshiamidos/aoc2019)
+12 | [aoc2020](https://adventofcode.com/2019/) | [aoc2020](https://github.com/arshiamidos/aoc2019)
 
 
 
